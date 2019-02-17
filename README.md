@@ -10,7 +10,7 @@ enough to be suitable for others to adapt. YMMV however.
 
 ## Usage
 
-N.b. this example roughly reflects y usage, but I haven't tried to use it
+N.b. this example roughly reflects my usage, but I haven't tried to use it
 directly, so there may be typos / bugs
 
 ```nix
