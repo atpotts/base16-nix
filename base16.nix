@@ -5,7 +5,7 @@ let
   templates = importJSON ./templates.json;
   schemes = importJSON ./schemes.json;
 
-  # pure bash mustache engine
+  # mustache engine
   mustache = template-attrs: name: src:
     pkgs.stdenv.mkDerivation (
       {
