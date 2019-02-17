@@ -17,7 +17,7 @@ directly, so there may be typos / bugs
 {pkgs, lib, config, ...}:
 {
   imports = [ ./base16.nix ];
-   config = {
+  config = {
 
     # Choose your themee
     themes.base16 = {
