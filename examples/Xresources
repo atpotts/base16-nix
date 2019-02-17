@@ -1,0 +1,50 @@
+{{xdpi}}
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+Xft.font: xft:{{headerfontname}}:size={{headersize}},xft:Symbola:size={{headersize}}
+#define All_font xft:{{fontname}}:size={{bodysize}},xft:Symbola:size={{bodysize}}
+URxvt.font: All_font
+URxvt.scrollBar: false
+URxvt.transparent: false
+URxvt.borderLess: false
+URxvt.saveLines: 2000
+
+*color0:      #{{base00}}
+*color1:      #{{base08}}
+*color2:      #{{base0B}}
+*color3:      #{{base0A}}
+*color4:      #{{base0D}}
+*color5:      #{{base0E}}
+*color6:      #{{base0C}}
+*color7:      #{{base05}}
+*color8:      #{{base03}}
+
+*color9:      #{{base08}}
+*color10:      #{{base0B}}
+*color11:      #{{base0A}}
+*color12:      #{{base0D}}
+*color13:      #{{base0E}}
+*color14:      #{{base0C}}
+
+*color15:      #{{base07}}
+*color16:      #{{base09}}
+*color17:      #{{base0F}}
+*color18:      #{{base01}}
+*color19:      #{{base02}}
+*color20:      #{{base04}}
+*color21:      #{{base06}}
+
+*foreground: #{{base05}}
+*background: #{{base00}}
+*fadeColor:             #{{base07}}
+*cursorColor:           #{{base01}}
+*pointerColorBackground: #{{base01}}
+*pointerColorForeground: #{{base06}}
+
+dzen2.font : All_font
+dzen2.foreground: S_base3
+dzen2.background: S_base01

@@ -1,0 +1,28 @@
+Config
+  { font = "xft:{{headerfontname}}:size={{headersize}},Meslo LG L DZ:size={{headersize}}"
+  , bgColor = "#{{base01}}"
+  , fgColor = "#{{base03}}"
+  , position = Top L 100
+  , commands = [ Run Cpu ["-t","<total>⚙","-L","30","-H","70","--low","#{{base05}}","--normal","#{{base0A}}","--high","#cb4b16"] 10
+               , Run Memory ["-t","<usedratio>Ξ"] 10
+               , Run Battery ["-t","<left><acstatus> <timeleft>",
+                                 "-L","30",
+                                 "-H","80",
+                                 "--low","#{{base08}},#{{base00}}",
+                                 "--normal","#{{base0A}},#{{base00}}",
+                                 "--high","#{{base05}},#{{base00}}",
+                                 "--",
+                                 "-O","↑",
+                                 "-o","↓",
+                                 "-i","~"
+                                 ] 100
+                  , Run Date "%a %b %_d %Y %H:%M" "date" 100
+                  , Run StdinReader
+                  ]
+  , sepChar = "%"
+  , alignSep = "}{"
+  , template = "%StdinReader% }{ <action=`urxvt -e top`> %cpu% %memory% </action><fc=#{{base02}},#{{base00}}> %battery% </fc> <fc=#{{base02}}>%date%</fc> %EGLC%  "
+  , persistent   = True
+  , lowerOnStart = True
+  , hideOnStart  = False
+  }
