@@ -1,5 +1,5 @@
 #! /usr/bin/env nix-shell
-#! nix-shell --pure -i bash -p bash curl nix-prefetch-git gnused jq
+#! nix-shell -i bash -p bash curl nix-prefetch-git gnused jq
 
 # Run from within the directory which needs the templates.json/schemes.json
 
