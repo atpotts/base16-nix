@@ -9,7 +9,7 @@
 generate_sources () {
   out=$1
   curl "https://raw.githubusercontent.com/chriskempson/base16-${out}-source/master/list.yaml"\
-  | sed -nE "s~^(\w*): *(.*)~\1 \2~p"\
+  | sed -nE "s~^([-_[:alnum:]]+): *(.*)~\1 \2~p"\
   | while read name src; do
       echo "{\"key\":\"$name\",\"value\":"
       nix-prefetch-git $src
