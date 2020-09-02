@@ -45,4 +45,20 @@
       { index = 21; color = "#${base06-hex}"; }
     ];
   };
+
+  dunst = theme: with theme; {
+    urgency_low = {
+      background = "#${base01-hex}";
+      foreground = "#${base03-hex}";
+    };
+    urgency_normal = {
+      background = "#${base01-hex}";
+      foreground = "#${base05-hex}";
+    };
+    urgency_critical = {
+      msg_urgency = "CRITICAL";
+      background  = "#${base01-hex}";
+      foreground  = "#${base08-hex}";
+    };
+  };
 }
