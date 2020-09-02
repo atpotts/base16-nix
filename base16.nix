@@ -78,10 +78,12 @@ in
       type = types.str;
       default = "solarized";
     };
+
     themes.base16.variant = mkOption {
       type = types.str;
       default = "solarized-dark";
     };
+
     themes.base16.extraParams = mkOption {
       type = types.attrsOf types.str;
       default = {};

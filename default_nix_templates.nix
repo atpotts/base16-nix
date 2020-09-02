@@ -1,5 +1,5 @@
 {
-  alacritty = theme: with theme; { 
+  alacritty = theme: with theme; {
     # Default colors
     primary = {
       background = "#${base00-hex}";
@@ -57,8 +57,8 @@
     };
     urgency_critical = {
       msg_urgency = "CRITICAL";
-      background  = "#${base01-hex}";
-      foreground  = "#${base08-hex}";
+      background = "#${base01-hex}";
+      foreground = "#${base08-hex}";
     };
   };
 }
