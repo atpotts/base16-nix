@@ -1,514 +1,554 @@
 {
   "alacritty": {
-    "type": "git",
-    "repo": "https://github.com/aaron-williamson/base16-alacritty",
     "rev": "5166b25c65545333de29763efe8c2b62ba37ed6a",
-    "ref": "master",
     "sha256": "01qczdmbpkn05v2sh49yx8rkib6a6z8ba70qga061gvr25y6i9gk",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/aaron-williamson/base16-alacritty.git",
+    "ref": "master",
+    "type": "git"
   },
   "binary-ninja": {
-    "type": "git",
-    "repo": "https://github.com/evanrichter/base16-binary-ninja",
     "rev": "0620c60190785910e1e412dd2334e422a7aea57f",
-    "ref": "master",
     "sha256": "1zfkr38vs3ck265p7s3bybl1g0h9giibll1388x9agfyanh4myg6",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/evanrichter/base16-binary-ninja.git",
+    "ref": "master",
+    "type": "git"
   },
   "blink": {
-    "type": "git",
-    "repo": "https://github.com/niklaas/base16-blink.git",
     "rev": "e9da92d2ab4aa947674158e27132974e92470b60",
-    "ref": "master",
     "sha256": "1dfib39nwsmxs0nqpg1qlf7f1vhm9v6ybh4lqyml0rvhz3x83ssm",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/niklaas/base16-blink.git.git",
+    "ref": "master",
+    "type": "git"
   },
   "c_header": {
-    "type": "git",
-    "repo": "https://github.com/m1sports20/base16-c_header",
     "rev": "d03a6131bfdc89fd0e6149b58cfa799a8e90c5e2",
-    "ref": "master",
     "sha256": "01084n3jm8vcaqbkhf70fwiaqqjc6kkjzjr6y5lgb27zghw1cif5",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/m1sports20/base16-c_header.git",
+    "ref": "master",
+    "type": "git"
   },
   "concfg": {
-    "type": "git",
-    "repo": "https://github.com/h404bi/base16-concfg",
-    "rev": "ff65516f91d79b31f099d830f20b9d06fb9405f5",
+    "rev": "da3596440fdafa7008d50cd0da950a3d6810b257",
+    "sha256": "0q1r7fxapf0i76hh359llsjichac7d68r9g8z31nni36kx0agdq9",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/h404bi/base16-concfg.git",
     "ref": "master",
-    "sha256": "0r0il2wnim7wqs2inn3f8i2apbj2hhinfvr66wng8zibdh7j8zyf",
-    "fetchSubmodules": false
+    "type": "git"
   },
   "conemu": {
-    "type": "git",
-    "repo": "https://github.com/martinlindhe/base16-conemu",
     "rev": "2618733bd41e0b88456df39c30e8a6f19bc23105",
-    "ref": "master",
     "sha256": "128r8z0g9qq2r10052m0pr4n480dgsmx2j7g5l0cl7dkbmmrs0xx",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/martinlindhe/base16-conemu.git",
+    "ref": "master",
+    "type": "git"
   },
   "console2": {
-    "type": "git",
-    "repo": "https://github.com/AFulgens/base16-console2",
     "rev": "4d2821b0eae717c0c677b2fb3467678365f1471c",
-    "ref": "master",
     "sha256": "0pxmx18bdv0d2v8zh9qfiimiqv7p3fm4j4bcx4sswcn6s00476l1",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/AFulgens/base16-console2.git",
+    "ref": "master",
+    "type": "git"
   },
   "consolez": {
-    "type": "git",
-    "repo": "https://github.com/AFulgens/base16-consolez",
     "rev": "6b5a42296fc15edf8ec6743ce5d362be7f4d842d",
-    "ref": "master",
     "sha256": "1xj6m9kg39j960czmm9pd5yhlbblk7snvd4drszyj5l4bd1wjmwv",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/AFulgens/base16-consolez.git",
+    "ref": "master",
+    "type": "git"
   },
   "crosh": {
-    "type": "git",
-    "repo": "https://github.com/philj56/base16-crosh",
     "rev": "7b96387fd1246758b1c27a09ca2d4fc7cc29fc17",
-    "ref": "master",
     "sha256": "0rm6wfmr1s0kxdkiva1nvzfss2z8h5rdckfzh70kz465zskylylk",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/philj56/base16-crosh.git",
+    "ref": "master",
+    "type": "git"
   },
   "dwm": {
-    "type": "git",
-    "repo": "https://github.com/dgmulf/base16-dwm",
     "rev": "472f45b2e18efa3c0b355ec9d3f3469bfe2f0b35",
-    "ref": "master",
     "sha256": "06xs8gd4gd1kxvp7lwi8c5vpamn7ifancrmc942qgy4031z1v7xb",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/dgmulf/base16-dwm.git",
+    "ref": "master",
+    "type": "git"
   },
   "dunst": {
-    "type": "git",
-    "repo": "https://github.com/khamer/base16-dunst",
-    "rev": "e3194d6dad0b12e0f6dfe01b9649768a8ffb2cbb",
+    "rev": "5b70a3c0177a0ad8531bb0a027f57cffd4697ec9",
+    "sha256": "0v453dlywf0xbdssvnxq66c6pah6d6n4biyrx4b6v2d4552n9lzh",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/khamer/base16-dunst.git",
     "ref": "master",
-    "sha256": "0z6d7k6mk74wfm1cm7a94hzd9cq8i9kd48jbg1razhacsqh3hk12",
-    "fetchSubmodules": false
+    "type": "git"
   },
   "emacs": {
-    "type": "git",
-    "repo": "https://github.com/belak/base16-emacs",
-    "rev": "9eba6874c80ab429bf5cbf6c76bb0399d3d2a2cb",
+    "rev": "d68512c0856f57a19cd49d1034199836352c15a0",
+    "sha256": "1h98ra53i7hc7zi9yjc6p29f70r04hivdczhw4imds13akq6j034",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/belak/base16-emacs.git",
     "ref": "master",
-    "sha256": "0ag5fsr3377rz6xfa0b9j54r90zh0yiz98kpa27xzhky4f5jpdah",
-    "fetchSubmodules": false
+    "type": "git"
+  },
+  "everything": {
+    "rev": "9931a068b7da50f6478170557eb9f586f9f400fc",
+    "sha256": "0bxbgcqlyiw2wy6yhdb0gkadfcm7ig3y3a9irwzk6b6s3s2hl255",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/spitfire05/base16-everything.git",
+    "ref": "master",
+    "type": "git"
   },
   "fzf": {
-    "type": "git",
-    "repo": "https://github.com/nicodebo/base16-fzf",
-    "rev": "376c4e9bd6c76c381c993fc6dfcba142537a077e",
+    "rev": "ef4c386689f18bdc754a830a8e66bc2d46d515ae",
+    "sha256": "1hcr9sq3bxnin2b1pn9dzw39ddxsx1a0fr075l62yn9203fvq0hq",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/fnune/base16-fzf.git",
     "ref": "master",
-    "sha256": "0s8pp21007g5w7pv7a0hp72lxi5a7xpmzb70mzf8imhyz2c8bbq1",
-    "fetchSubmodules": false
+    "type": "git"
   },
   "gnome-terminal": {
-    "type": "git",
-    "repo": "https://github.com/aaron-williamson/base16-gnome-terminal",
     "rev": "5531e34bd80f67d84b08bccaf0a832005453f57f",
-    "ref": "master",
     "sha256": "034ml2yyapnpq23nvsivkzd58b2q05qhrrc0xaflf4bg8vdynvl5",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/aaron-williamson/base16-gnome-terminal.git",
+    "ref": "master",
+    "type": "git"
   },
   "godot": {
-    "type": "git",
-    "repo": "https://github.com/Calinou/base16-godot",
     "rev": "72af0d32c6944ce1030139cdba2f25a708c37382",
-    "ref": "master",
     "sha256": "0hzhdhn960m5916hg1yb6vw9mwwq7za9wqkyd32z2c67p4hmcdrq",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/Calinou/base16-godot.git",
+    "ref": "master",
+    "type": "git"
+  },
+  "gtk-flatcolor": {
+    "rev": "c30b2ed92d882b447f1d4c621b86a0fec228c5b4",
+    "sha256": "1g3a7jwlhhhzwgqn8bvngc2rd2nmzni8m3f7ki1f204h4csmyy4j",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/Misterio77/base16-gtk-flatcolor.git",
+    "ref": "master",
+    "type": "git"
   },
   "gtk2": {
-    "type": "git",
-    "repo": "https://github.com/dawikur/base16-gtk2",
-    "rev": "8a1a71bde8efb42498be26465b3f81faf564e3b7",
+    "rev": "4e43875501dc7c6366296b4393268cb4a8c2d223",
+    "sha256": "0pclinv6yk6b4b9fwgsplvafn9qz2n6hkf1hxg0vz8v3nrdv1vgh",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/dawikur/base16-gtk2.git",
     "ref": "master",
-    "sha256": "110l9qy5ygi1fwz5fi5rldsbziwgm0k3jb1d63ias5whgw21kfa1",
-    "fetchSubmodules": false
+    "type": "git"
   },
   "highlight": {
-    "type": "git",
-    "repo": "https://github.com/bezhermoso/base16-highlight",
     "rev": "a07d0c99b4ff1144344010aa06bc14460c5618c8",
-    "ref": "master",
     "sha256": "18y67j4x0lvlxsgnh1wwaqlw3a1xvk9nld61yq271nkqda9gdf3j",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/bezhermoso/base16-highlight.git",
+    "ref": "master",
+    "type": "git"
   },
   "html-preview": {
-    "type": "git",
-    "repo": "https://github.com/chriskempson/base16-html-preview",
     "rev": "f76aee571c538ae6c1772881f2f47dce486fedd2",
-    "ref": "master",
     "sha256": "0lamflfdsm2c012jx642i1gsvycl5mj8nkvjw9xd3r75a0rwgxsn",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/chriskempson/base16-html-preview.git",
+    "ref": "master",
+    "type": "git"
   },
   "hugo": {
-    "type": "git",
-    "repo": "https://github.com/yawpitch/base16-hugo",
     "rev": "37fa4e4be8af0aa839ae91b9dd593ed9c077ba22",
-    "ref": "master",
     "sha256": "0swzmr95l44nkgzbqygi4fqkw1ihp0csn8hn6d5zmzz0425dzl8w",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/yawpitch/base16-hugo.git",
+    "ref": "master",
+    "type": "git"
   },
   "i3": {
-    "type": "git",
-    "repo": "https://github.com/khamer/base16-i3",
     "rev": "78292138812a3f88c3fc4794f615f5b36b0b6d7c",
-    "ref": "master",
     "sha256": "1ikhywvf6gzyw6win07rzn0zna5bl516gpvkfrr4lfq25xh3vy4x",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/khamer/base16-i3.git",
+    "ref": "master",
+    "type": "git"
   },
   "i3status": {
-    "type": "git",
-    "repo": "https://github.com/Eluminae/base16-i3status",
     "rev": "cbf6394543d004b37a26b3d3c7261c475562d08a",
-    "ref": "master",
     "sha256": "14jl8ab2wrfh15c8ggy4b6sfjv0qgmdy0hmlxxirsbmgx25yd291",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/Eluminae/base16-i3status.git",
+    "ref": "master",
+    "type": "git"
   },
   "i3status-rust": {
-    "type": "git",
-    "repo": "https://github.com/mystfox/base16-i3status-rust",
     "rev": "b761342deb520a59b487749c35e5f0fc14db0ee0",
-    "ref": "master",
     "sha256": "0ab9pkb6c2zb802ac1bli0iii0r499lviivw5bi54lg2mv3blpgv",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/mystfox/base16-i3status-rust.git",
+    "ref": "master",
+    "type": "git"
   },
   "iterm2": {
-    "type": "git",
-    "repo": "https://github.com/martinlindhe/base16-iterm2",
     "rev": "7f9c3d60b03ff8e74635df2cce9e9442e03190e1",
-    "ref": "master",
     "sha256": "055ii5mcvrqfvc81v0a32y01mh80w3xxidxfzfz2gkw0lj8b6l2j",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/martinlindhe/base16-iterm2.git",
+    "ref": "master",
+    "type": "git"
   },
   "jetbrains": {
-    "type": "git",
-    "repo": "https://github.com/adilosa/base16-jetbrains",
     "rev": "816c329c77310ef10c326164b88a46ca08417fdd",
-    "ref": "master",
     "sha256": "1gdb42r81avyavmgg5nlx0yhc1vbx05yhv0m4b28wwh2gq09kfba",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/adilosa/base16-jetbrains.git",
+    "ref": "master",
+    "type": "git"
   },
   "joe": {
-    "type": "git",
-    "repo": "https://github.com/jjjordan/base16-joe",
     "rev": "cf3cb8b01b824712a7876f5db4c3be01fc4ece62",
-    "ref": "master",
     "sha256": "11iwrf1f0c78sjblsr4yxsdyi1mym3fqlpiqsacyi5qdmsxh8ivi",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/jjjordan/base16-joe.git",
+    "ref": "master",
+    "type": "git"
   },
   "kakoune": {
-    "type": "git",
-    "repo": "https://github.com/aprilarcus/base16-kakoune",
     "rev": "bdc59fd92c584672fb9ee87f5144848321cc52e8",
-    "ref": "master",
     "sha256": "06vaknfgsvvjv5vvalg51fdxdqx72wkvjwjmlwqdx3dsvv3yaf0w",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/aprilarcus/base16-kakoune.git",
+    "ref": "master",
+    "type": "git"
   },
   "kitty": {
-    "type": "git",
-    "repo": "https://github.com/kdrag0n/base16-kitty",
-    "rev": "742d0326db469cae2b77ede3e10bedc323a41547",
+    "rev": "fe5862cec41bfd0b46a1ac3d7565a50680051226",
+    "sha256": "096sa969z9v9w3ggsqd4d7gmqh52aavkmjhbz4zb35wq7fg5g5zs",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/kdrag0n/base16-kitty.git",
     "ref": "master",
-    "sha256": "19ffbvjmpla0pqqasmyfjw7hz7jzr6mhdmy8pn0babz0ff6m65fm",
-    "fetchSubmodules": false
+    "type": "git"
   },
   "konsole": {
-    "type": "git",
-    "repo": "https://github.com/cskeeters/base16-konsole",
     "rev": "b30e0b26e766cf8a3d12afb18ac2773f53af5a87",
-    "ref": "master",
     "sha256": "0a8pjah1nkimnj3b59mvfj53zmjd4252s7zb7drvv45ik4n4cjj9",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/cskeeters/base16-konsole.git",
+    "ref": "master",
+    "type": "git"
+  },
+  "luakit": {
+    "rev": "34112210caa242a0fb4b6b4f21e3e90e70db6aaa",
+    "sha256": "0f8wgbcjzhlji1xy8n4mj248416jazjy9x1qn5rfk1agyyslypq9",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/twnaing/base16-luakit.git",
+    "ref": "master",
+    "type": "git"
   },
   "mako": {
-    "type": "git",
-    "repo": "https://github.com/Eluminae/base16-mako",
     "rev": "f46c99682c03d30f52436741f1902db36738bf06",
-    "ref": "master",
     "sha256": "052l3bi34mwk4hmwiy9di0lzs0c0jvkr83nvhd7rji0fz0djqxzk",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/Eluminae/base16-mako.git",
+    "ref": "master",
+    "type": "git"
   },
   "mintty": {
-    "type": "git",
-    "repo": "https://github.com/iamthad/base16-mintty",
     "rev": "6dd46b289d04fb72d10a5a6005cec2c77d85c620",
-    "ref": "master",
     "sha256": "0fpkhjwsv0gmvyqigdlms92vwjifagxyhqqlp4h2vymmwzqdx0y9",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/iamthad/base16-mintty.git",
+    "ref": "master",
+    "type": "git"
   },
   "monodevelop": {
-    "type": "git",
-    "repo": "https://github.com/netpyoung/base16-monodevelop",
     "rev": "c6482ae507086ae0b2d7bdd5ef5310abea5e3509",
-    "ref": "master",
     "sha256": "0zhfs22lmbmn2xn10mbdznzkk0ns8mx3jkg8apbmmqlwxlxzarw3",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/netpyoung/base16-monodevelop.git",
+    "ref": "master",
+    "type": "git"
   },
   "prism": {
-    "type": "git",
-    "repo": "https://github.com/atelierbram/base16-prism",
     "rev": "8654bd3dec78559a1175170db340d9d9ffadf6e6",
-    "ref": "master",
     "sha256": "1qjqcn8x6vhq3g7w53v70jd4wpdnhmx8xdj34mll8yn7kh3k9fwm",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/atelierbram/base16-prism.git",
+    "ref": "master",
+    "type": "git"
   },
   "prompt-toolkit": {
-    "type": "git",
-    "repo": "https://github.com/memeplex/base16-prompt-toolkit",
     "rev": "be359c8077c9b0c167a97233b17c90b0bf78a253",
-    "ref": "master",
     "sha256": "10j2a8j2mqvdwa0g5mzdxm3s3pfn05gnrab6f6kdv0q8xbwbq1ia",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/memeplex/base16-prompt-toolkit.git",
+    "ref": "master",
+    "type": "git"
   },
   "putty": {
-    "type": "git",
-    "repo": "https://github.com/abravalheri/base16-putty",
     "rev": "119e0788413fb76d02789703e28abd0939079d3e",
-    "ref": "master",
     "sha256": "14zlfm7wxqzm5g2sj398f075fpzn4h67gxdplb6nc1iy14qxqb7p",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/abravalheri/base16-putty.git",
+    "ref": "master",
+    "type": "git"
   },
   "pygments": {
-    "type": "git",
-    "repo": "https://github.com/mohd-akram/base16-pygments",
     "rev": "de39f100a46df33d63428fef36b203979f85a588",
-    "ref": "master",
     "sha256": "0iclmdhfkwafip4rwgk231nrgvc8gpd2zdbmbqs6lgw0iyalkd44",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/mohd-akram/base16-pygments.git",
+    "ref": "master",
+    "type": "git"
   },
   "pywal": {
-    "type": "git",
-    "repo": "https://github.com/metalelf0/base16-pywal",
     "rev": "7a8ba6c794386261172f0f62536ad70edb2db62a",
-    "ref": "master",
     "sha256": "1yaipwqc64zzpdz914279kx6i3gniizkbh5g1zaxk7avzkcf7hla",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/metalelf0/base16-pywal.git",
+    "ref": "master",
+    "type": "git"
   },
   "qownnotes": {
-    "type": "git",
-    "repo": "https://github.com/themix-project/base16-template-qOwnNotes",
     "rev": "f97666b1ad233e35aa081bd96abfbc6634f1d498",
-    "ref": "master",
     "sha256": "0yda35fmazm3y138qd42dkp7n2kx1qgxya7qlxshz9qhg9mxiwjf",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/themix-project/base16-template-qOwnNotes.git",
+    "ref": "master",
+    "type": "git"
   },
   "qtcreator": {
-    "type": "git",
-    "repo": "https://github.com/ilpianista/base16-qtcreator",
     "rev": "0415c80f789bd758c611553975805c235cf02a35",
-    "ref": "master",
     "sha256": "07m3rqb4qs6ggl14q9mdsj08qz0g0nxyi6cyapj785jkqdzkyv3a",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/ilpianista/base16-qtcreator.git",
+    "ref": "master",
+    "type": "git"
   },
   "qutebrowser": {
-    "type": "git",
-    "repo": "https://github.com/theova/base16-qutebrowser",
-    "rev": "c5da33b3d50cd30f18a50beac8bb2219c11213d9",
+    "rev": "3dd94ca2a5ea15ed42418cdd96120eff43ea0af1",
+    "sha256": "0vqh8iqw80ph9r689pi53swkfi7nhdc6556k0z5c8qazj629xrlf",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/theova/base16-qutebrowser.git",
     "ref": "master",
-    "sha256": "0rdhivsab1zvkqv66n7b7p6n1mmg9sr5ggsw1pl3rr6k3glk0pji",
-    "fetchSubmodules": false
+    "type": "git"
   },
   "rofi": {
-    "type": "git",
-    "repo": "https://gitlab.com/0xdec/base16-rofi",
     "rev": "afbc4b22d8f415dc89f36ee509ac35fb161c6df4",
-    "ref": "master",
     "sha256": "1f9gkfc4icdgdj0fkkgg1fw3n6imlr1sbi42qm9hbkjxy5fmzay2",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://gitlab.com/0xdec/base16-rofi.git",
+    "ref": "master",
+    "type": "git"
   },
   "scide": {
-    "type": "git",
-    "repo": "https://github.com/brunoro/base16-scide",
     "rev": "a1bb97088722c53e727e88f739f81d4359c43818",
-    "ref": "master",
     "sha256": "1vzj4knrq506k1njym0j0zrrn42c4kv2i3lwnaj3bb16nlmd71d1",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/brunoro/base16-scide.git",
+    "ref": "master",
+    "type": "git"
   },
   "shell": {
-    "type": "git",
-    "repo": "https://github.com/chriskempson/base16-shell",
     "rev": "ce8e1e540367ea83cc3e01eec7b2a11783b3f9e1",
-    "ref": "master",
     "sha256": "1yj36k64zz65lxh28bb5rb5skwlinixxz6qwkwaf845ajvm45j1q",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/chriskempson/base16-shell.git",
+    "ref": "master",
+    "type": "git"
   },
   "st": {
-    "type": "git",
-    "repo": "https://github.com/dgmulf/base16-st",
     "rev": "e9cab0f7cd1c414f05bc3a21395a2f5193b21e93",
-    "ref": "master",
     "sha256": "1wg27pg0imhb9ldv04ky4qs7d6i0m7nx66x46zrw3ncqrajp6149",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/dgmulf/base16-st.git",
+    "ref": "master",
+    "type": "git"
   },
   "stumpwm": {
-    "type": "git",
-    "repo": "https://github.com/tpine/base16-stumpwm",
-    "rev": "df0a85f2f03d7af06dbafc524f45f97fdea2d21a",
+    "rev": "6510b7ca80cdc6ea0a56b7ec1f00286e090d3772",
+    "sha256": "11v39i08nf69kf36adp5m0gmm6vl5q6gnifdx8p6c5r2vl14cpz3",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/tpine/base16-stumpwm.git",
     "ref": "master",
-    "sha256": "0ql65yngr3mrg463lgkhjdqr1vfw2x4p3nkrjdgjzxm9z211m5pm",
-    "fetchSubmodules": false
+    "type": "git"
   },
   "styles": {
-    "type": "git",
-    "repo": "https://github.com/samme/base16-styles",
     "rev": "8db4f00ca9e5575ba52d98a204ee44a53e13d546",
-    "ref": "master",
     "sha256": "1psjkzjzl3im5gyl5jri9f7bfpmr957lapknqzpj2z98hm9v6rvh",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/samme/base16-styles.git",
+    "ref": "master",
+    "type": "git"
   },
   "sway": {
-    "type": "git",
-    "repo": "https://github.com/rkubosz/base16-sway",
     "rev": "e653c5f0817c07ba147ea0b8096b026344d7486c",
-    "ref": "master",
     "sha256": "03ip0addja34ln47hd3mc8s7h2qn29jslxwzp3nf52z1bvb4fi1n",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/rkubosz/base16-sway.git",
+    "ref": "master",
+    "type": "git"
   },
   "terminator": {
-    "type": "git",
-    "repo": "https://github.com/Schnouki/base16-terminator",
     "rev": "0b736adacf2b890ce5940e58ad7c2299948b1676",
-    "ref": "master",
     "sha256": "0n8fwrkm7gaxl9lmam4fygvp0g5hj6s05iddra17307x797lvayb",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/Schnouki/base16-terminator.git",
+    "ref": "master",
+    "type": "git"
   },
   "termite": {
-    "type": "git",
-    "repo": "https://github.com/khamer/base16-termite",
-    "rev": "2c01e32db3ed5e9015d951c39e77373d12022f6a",
+    "rev": "4b57255c4580f95d5134e9754d27decdac2cf4c8",
+    "sha256": "12vqh29zgb99rg868rl9h63lvbv8rw0finlzgzg3vawvhx1x2r5v",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/khamer/base16-termite.git",
     "ref": "master",
-    "sha256": "1zkvsmcf7cg0a438hfrfpj8q657lq89mi8650x4p5scknkk6bd9s",
-    "fetchSubmodules": false
+    "type": "git"
   },
   "termux": {
-    "type": "git",
-    "repo": "https://github.com/kdrag0n/base16-termux",
-    "rev": "ca2ab0f40eb9a0ae0ddc941b51dc7907660e137b",
+    "rev": "0ddb28fb91c07a1409a92dd4c9b1376ba9916b89",
+    "sha256": "00knxd0a7h15q9c25x2rwyp5lpp8ry3blsyzl49vmgr6rsn5m1nd",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/kdrag0n/base16-termux.git",
     "ref": "master",
-    "sha256": "0f09x9hwyzqxlnij8qgjvzx48i288xk4i9rihm3whg965clr9dbz",
-    "fetchSubmodules": false
+    "type": "git"
+  },
+  "textadept": {
+    "rev": "d8a4061ed28916e2a66230d2d9de620fb63ec1b2",
+    "sha256": "0mm4irmilxy36ci4mrf4kbfp020z9fnnmya48m3kq1zsms1n59ha",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/rgieseke/base16-textadept.git",
+    "ref": "master",
+    "type": "git"
   },
   "textmate": {
-    "type": "git",
-    "repo": "https://github.com/chriskempson/base16-textmate",
     "rev": "1d9e52afb74e03f5a2fdc53d9327428fe00c70c7",
-    "ref": "master",
     "sha256": "1h10ynqdrnh9xh9pxjzrd2yk85zavmmqs9mx6hb2v0dq4m81hkmr",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/chriskempson/base16-textmate.git",
+    "ref": "master",
+    "type": "git"
   },
   "tilix": {
-    "type": "git",
-    "repo": "https://github.com/karlding/base16-tilix",
     "rev": "8d5a2b28ca1b6c20fe8db8064026a3e76d002d4c",
-    "ref": "master",
     "sha256": "0278fnr280nan7q501hj5jlarfk0xzp1npbddlzbvfkip0jdssgb",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/karlding/base16-tilix.git",
+    "ref": "master",
+    "type": "git"
   },
   "tmux": {
-    "type": "git",
-    "repo": "https://github.com/mattdavis90/base16-tmux",
     "rev": "b1d1aa6401afd0a36d76489509122b0bfaacf417",
-    "ref": "master",
     "sha256": "1fmwkqqh3swwi867mi788ij5v0bfml6xk3wbkqf4pryh2x65rlyx",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/mattdavis90/base16-tmux.git",
+    "ref": "master",
+    "type": "git"
   },
   "vim-airline-themes": {
-    "type": "git",
-    "repo": "https://github.com/dawikur/base16-vim-airline-themes",
     "rev": "925a56f54c2d980db4ec986aae6e4ae29d27ee45",
-    "ref": "master",
     "sha256": "0pyfgw10vbkml2cgwpcq93gn6zvgwycdpvl036dkxlkbxmx4qv4g",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/dawikur/base16-vim-airline-themes.git",
+    "ref": "master",
+    "type": "git"
   },
   "vim": {
-    "type": "git",
-    "repo": "https://github.com/chriskempson/base16-vim.git",
     "rev": "6191622d5806d4448fa2285047936bdcee57a098",
+    "sha256": "1qz21jizcy533mqk9wff1wqchhixkcfkysqcqs0x35wwpbri6nz8",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/chriskempson/base16-vim.git",
     "ref": "master",
-    "sha256": "0vz4c8cy7zw7n41vrfzjksgw9lyxwkqa010szc14gx3450si9q6z",
-    "fetchSubmodules": false
+    "type": "git"
+  },
+  "vimiv": {
+    "rev": "9993e275869d9c5b8b54f90727d21573878d50ea",
+    "sha256": "1xa6xnvmd6vw17r7mqgwramvra3z565v818zfpp7js3223w5080k",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/karlch/base16-vimiv.git",
+    "ref": "master",
+    "type": "git"
   },
   "vis": {
-    "type": "git",
-    "repo": "https://github.com/pshevtsov/base16-vis",
     "rev": "05dae61a524edf21632fc45b473ec8c3e0f553ab",
-    "ref": "master",
     "sha256": "15jd45565v8agzqhaklnsv06mmrzznkqmw8n5bs2c2fqi6228jca",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/pshevtsov/base16-vis.git",
+    "ref": "master",
+    "type": "git"
   },
   "vscode": {
-    "type": "git",
-    "repo": "https://github.com/golf1052/base16-vscode",
     "rev": "bb69a564f41925b8a2d35195290d0872e69f16ab",
-    "ref": "master",
     "sha256": "0xybncvsrp7f644h98sga7pcj2sr6rm2y5vkjnfqn1p3qaymfjh0",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/golf1052/base16-vscode.git",
+    "ref": "master",
+    "type": "git"
   },
   "waybar": {
-    "type": "git",
-    "repo": "https://github.com/mnussbaum/base16-waybar",
     "rev": "d2f943b1abb9c9f295e4c6760b7bdfc2125171d2",
-    "ref": "master",
     "sha256": "1kc4w98rbdb3lyqrf8lzc1xsgn1zxqlzwxry6fiz89ygn84gh5ks",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/mnussbaum/base16-waybar.git",
+    "ref": "master",
+    "type": "git"
   },
   "windows-command-prompt": {
-    "type": "git",
-    "repo": "https://github.com/iamthad/base16-windows-command-prompt",
     "rev": "dd1a21edf83c2f66b8d6267bb096fd73d1fd0b46",
-    "ref": "master",
     "sha256": "09cl5jq5l6hv6jscc45pdjkfshxw88bqp7igqrhscnf028q81jb6",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/iamthad/base16-windows-command-prompt.git",
+    "ref": "master",
+    "type": "git"
   },
   "windows-terminal": {
-    "type": "git",
-    "repo": "https://github.com/wuqs-net/base16-windows-terminal",
-    "rev": "82ee9fe9f15da3b5a8330dcee9139d6dc4dbbc09",
+    "rev": "121784ab1c5ca849f344914d5276f4b73bbdc371",
+    "sha256": "15gj7ibdh3n2mmxlkilz3svlpmq3yp77bm6gjkz377ilynmxb2nq",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/wuqs-net/base16-windows-terminal.git",
     "ref": "master",
-    "sha256": "0d3vjmxy0g7w0m1kj01arqyla33wb99zai2pqqwpysz82qk6lv4j",
-    "fetchSubmodules": false
+    "type": "git"
   },
   "xcode": {
-    "type": "git",
-    "repo": "https://github.com/kreeger/base16-xcode",
     "rev": "cea39392e45deed6073ea288bb216b66153f9b4a",
-    "ref": "master",
     "sha256": "0aypnrlz0b5znnmgylyjq95xfv7lz9binjpqjj7611dc1w1q9h0i",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/kreeger/base16-xcode.git",
+    "ref": "master",
+    "type": "git"
   },
   "xfce4-terminal": {
-    "type": "git",
-    "repo": "https://github.com/afg984/base16-xfce4-terminal",
-    "rev": "418756d9cdc8cbbc481689197122ab4c6f48444a",
+    "rev": "9596bd6d13f46294cbf650f16ada5ce6a4ff8521",
+    "sha256": "0dbqf7y7h795mdknj4rfr4q4blxx8c8qz6japj4c7g60l7rjs4l1",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/afg984/base16-xfce4-terminal.git",
     "ref": "master",
-    "sha256": "1kfg0zagxz3s4ri91l6ih0bfd8vbhyy2kd6vzcfpjkj1565ik0rh",
-    "fetchSubmodules": false
+    "type": "git"
   },
   "xresources": {
-    "type": "git",
-    "repo": "https://github.com/chriskempson/base16-xresources",
     "rev": "79e6e1de591f7444793fd8ed38b67ce7fce25ab6",
-    "ref": "master",
     "sha256": "1nnj5py5n0m8rkq3ic01wzyzkgl3g9a8q5dc5pcgj3qr47hhddbw",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/chriskempson/base16-xresources.git",
+    "ref": "master",
+    "type": "git"
   },
   "xshell": {
-    "type": "git",
-    "repo": "https://github.com/h404bi/base16-xshell",
     "rev": "0eda8dbccdec9737fbcc4810bfd2676ea7243c08",
-    "ref": "master",
     "sha256": "1n1j80zab3rs43p20k5mgbnwf8yy7y4wg9rpa1lz6s5din5d9l3k",
-    "fetchSubmodules": false
+    "fetchSubmodules": false,
+    "repo": "https://github.com/h404bi/base16-xshell.git",
+    "ref": "master",
+    "type": "git"
   },
   "zathura": {
-    "type": "git",
-    "repo": "https://github.com/nicodebo/base16-zathura",
-    "rev": "d3eec6ed9c83725b6044b001d587cd42507c5496",
+    "rev": "34e5a16dac5ddbd7764fcbefaa3340002abec0e5",
+    "sha256": "001ygv385y6n910s9bd7gmyl9bvkxzj5hdchi7zfh77gs6vpg5b5",
+    "fetchSubmodules": false,
+    "repo": "https://github.com/nicodebo/base16-zathura.git",
     "ref": "master",
-    "sha256": "0b29npil6hsr4cld1g6cz8i9412fvqx2c25ls2v71bajirads1yl",
-    "fetchSubmodules": false
+    "type": "git"
   }
 }
