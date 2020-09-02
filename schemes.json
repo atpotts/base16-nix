@@ -1,355 +1,471 @@
 {
   "atelier": {
-    "url": "https://github.com/atelierbram/base16-atelier-schemes",
+    "type": "git",
+    "repo": "https://github.com/atelierbram/base16-atelier-schemes",
     "rev": "212179fded98ecfa7d88ad7a756d81297a3371c2",
+    "ref": "HEAD",
     "sha256": "0r7m6iwgpv96jy5li47j5yk69nif1rxznnhhxc6g3dcjidbqz8xl",
     "fetchSubmodules": false
   },
   "atlas": {
-    "url": "https://github.com/ajlende/base16-atlas-scheme",
+    "type": "git",
+    "repo": "https://github.com/ajlende/base16-atlas-scheme",
     "rev": "55fe308a8d93a31c1bd55e80ff573b11511b6cf3",
+    "ref": "HEAD",
     "sha256": "09ghwai272lvjc4vyaigaiyng0jy6g9q2p2cz05hnbmg8i6v6icp",
     "fetchSubmodules": false
   },
   "black-metal": {
-    "url": "https://github.com/metalelf0/base16-black-metal-scheme",
+    "type": "git",
+    "repo": "https://github.com/metalelf0/base16-black-metal-scheme",
     "rev": "c7a32bec8105a1ceddb9fcc90b713dabde5e7e5e",
+    "ref": "HEAD",
     "sha256": "04n24lnv449699qsm8a7ljsrm07242kaaf6qm9gmda99ymshrnvj",
     "fetchSubmodules": false
   },
   "brogrammer": {
-    "url": "https://github.com/piggyslasher/base16-brogrammer-scheme",
+    "type": "git",
+    "repo": "https://github.com/piggyslasher/base16-brogrammer-scheme",
     "rev": "e2f190582e8bb70e507ae710ac1d74a0776643f8",
+    "ref": "HEAD",
     "sha256": "0ihd3pymd9z9yyw6v6zry2v6hh9xmlzpjkp31pj3f59kf6r1rk2x",
     "fetchSubmodules": false
   },
   "brushtrees": {
-    "url": "https://github.com/WhiteAbeLincoln/base16-brushtrees-scheme",
+    "type": "git",
+    "repo": "https://github.com/WhiteAbeLincoln/base16-brushtrees-scheme",
     "rev": "0b8ae8c74aaffb2f521e494f4d72dd461c1aa836",
+    "ref": "HEAD",
     "sha256": "0xn9faj5pnalfdjrzgsm0hj6h6d7g2k4ri7pmbl20s74c4kh38m6",
     "fetchSubmodules": false
   },
   "circus": {
-    "url": "https://github.com/stepchowfun/base16-circus-scheme",
+    "type": "git",
+    "repo": "https://github.com/stepchowfun/base16-circus-scheme",
     "rev": "f0e81490e4f1fd984f7ec3b5ee6aaa0c9af9868b",
+    "ref": "HEAD",
     "sha256": "1dsscr04hrvzs3n4m02b136qpqffa2djpvmdv24xicbz19fppr5w",
     "fetchSubmodules": false
   },
   "classic": {
-    "url": "https://github.com/detly/base16-classic-scheme",
+    "type": "git",
+    "repo": "https://github.com/detly/base16-classic-scheme",
     "rev": "532c8b4eb1e9507c51ed467a158f91f11c6b52cb",
+    "ref": "HEAD",
     "sha256": "1k7nb9p6vym1dk6fgbis9q88hs9filj4437rh7w126ymppjpd0si",
     "fetchSubmodules": false
   },
   "codeschool": {
-    "url": "https://github.com/blockloop/base16-codeschool-scheme",
+    "type": "git",
+    "repo": "https://github.com/blockloop/base16-codeschool-scheme",
     "rev": "766cd0fdb564191152c90872b143a14e8a43b78c",
+    "ref": "HEAD",
     "sha256": "0vlr9sxn8xx0n41fflaw1xw5s4hd6cfn7mdvlbs1hldlrd86ysir",
     "fetchSubmodules": false
   },
   "cupertino": {
-    "url": "https://github.com/Defman21/base16-cupertino",
+    "type": "git",
+    "repo": "https://github.com/Defman21/base16-cupertino",
     "rev": "8df41b787a16640dd29f88251e95beed4bf9a5c5",
+    "ref": "HEAD",
     "sha256": "1w8j48rf7f0zp4jjwp9n0ml0m4b7wscf3nib1bs9kcdlnm3rnbq1",
     "fetchSubmodules": false
   },
   "darkmoss": {
-    "url": "https://github.com/avanzzzi/base16-darkmoss-scheme",
+    "type": "git",
+    "repo": "https://github.com/avanzzzi/base16-darkmoss-scheme",
     "rev": "1412e87370d9c835df4cf7eeba2b92a7761c33f9",
+    "ref": "HEAD",
     "sha256": "03gzbwnkgyc7b1f76r6d50k8vp9s1iqx47zkrfp74j4c1g4bi6sb",
     "fetchSubmodules": false
   },
   "darkviolet": {
-    "url": "https://github.com/ruler501/base16-darkviolet-scheme",
+    "type": "git",
+    "repo": "https://github.com/ruler501/base16-darkviolet-scheme",
     "rev": "2e852c8c21b991c0360d788e7561e465cbb594cf",
+    "ref": "HEAD",
     "sha256": "1rwlrbh4fxmghyfz6ckziyd90pa2gfpx776ri0z3h7wjrg4r3r17",
     "fetchSubmodules": false
   },
   "default": {
-    "url": "https://github.com/chriskempson/base16-default-schemes",
+    "type": "git",
+    "repo": "https://github.com/chriskempson/base16-default-schemes",
     "rev": "daf674291964321cd8c92644f9bbdbf3e7c0e8b3",
+    "ref": "HEAD",
     "sha256": "1hdhvl7xr068z5pcib2jja6kjl7l4v2q8l4cihjgk1l7yqf440m7",
     "fetchSubmodules": false
   },
   "dirtysea": {
-    "url": "https://github.com/tartansandal/base16-dirtysea-scheme",
+    "type": "git",
+    "repo": "https://github.com/tartansandal/base16-dirtysea-scheme",
     "rev": "f932a2ce5a2b56e4c4ec827198af7f4475cb5b32",
+    "ref": "HEAD",
     "sha256": "0cpgz0ls6nsahakwmywh8s4scjawpxqlfm61x2v2r5xkl8fig41r",
     "fetchSubmodules": false
   },
   "dracula": {
-    "url": "https://github.com/dracula/base16-dracula-scheme",
+    "type": "git",
+    "repo": "https://github.com/dracula/base16-dracula-scheme",
     "rev": "970c1b5bbb99cd99595ab4ace1a0ba4af9695774",
+    "ref": "HEAD",
     "sha256": "18arxaws313q4l32w0y8bqsl1x5n7m0djams0nphnw1pkc3bfkbm",
     "fetchSubmodules": false
   },
   "edge": {
-    "url": "https://github.com/cjayross/base16-edge-schemes",
+    "type": "git",
+    "repo": "https://github.com/cjayross/base16-edge-schemes",
     "rev": "d2c54a43623f0b1b8441130e6cecb2cd12521711",
+    "ref": "HEAD",
     "sha256": "0b2jh4v7g7wvdasc5mjpf98icl132ak537achfsb6q89v1w9n5gx",
     "fetchSubmodules": false
   },
   "equilibrium": {
-    "url": "https://github.com/carloabelli/base16-equilibrium-scheme",
+    "type": "git",
+    "repo": "https://github.com/carloabelli/base16-equilibrium-scheme",
     "rev": "509e488d8e707f558c155d88b1c02bf97242fda8",
+    "ref": "HEAD",
     "sha256": "05w3lyqw19y5f2j974pyh65726cjfq4lm9ma600kkc11flcpg9c3",
     "fetchSubmodules": false
   },
   "espresso": {
-    "url": "https://github.com/alexmirrington/base16-espresso-scheme",
+    "type": "git",
+    "repo": "https://github.com/alexmirrington/base16-espresso-scheme",
     "rev": "2d7eddc312337ac09ff33c666a575f112d771524",
+    "ref": "HEAD",
     "sha256": "1fvwz5n7z42404lpigl9d3mwfs3rl61fcaafvn4b4pw33l3zn7q6",
     "fetchSubmodules": false
   },
   "framer": {
-    "url": "https://github.com/jssee/base16-framer-scheme",
+    "type": "git",
+    "repo": "https://github.com/jssee/base16-framer-scheme",
     "rev": "f4e15f3182132c57e8294ba235862404e419256f",
+    "ref": "HEAD",
     "sha256": "0icy44k79wl2wqvrcbfn4f7nkgi2npvvv8nz0fad8khnncf07k0q",
     "fetchSubmodules": false
   },
   "fruit-soda": {
-    "url": "https://github.com/jozip/base16-fruit-soda-scheme",
+    "type": "git",
+    "repo": "https://github.com/jozip/base16-fruit-soda-scheme",
     "rev": "38144b1a06466c341ddffc45f8b592f211fdcc06",
+    "ref": "HEAD",
     "sha256": "09vrayyg82fjja0wkmlfaz7h4j28sibz4nc2hzyinaks5b9ja0wi",
     "fetchSubmodules": false
   },
   "gigavolt": {
-    "url": "https://github.com/Whillikers/base16-gigavolt-scheme",
+    "type": "git",
+    "repo": "https://github.com/Whillikers/base16-gigavolt-scheme",
     "rev": "55c75e2c2b98ac142fda506d7d83203b4426df64",
+    "ref": "HEAD",
     "sha256": "1av684azijkflyqr6hg2r786wq3w93i12v88mrx7lslmd4lqbrly",
     "fetchSubmodules": false
   },
   "github": {
-    "url": "https://github.com/Defman21/base16-github-scheme",
+    "type": "git",
+    "repo": "https://github.com/Defman21/base16-github-scheme",
     "rev": "2daf39a4a02185637fbcc0d2cb239517c2ac6800",
+    "ref": "HEAD",
     "sha256": "0bq42yqhg5hrjdpbfx1f3pips2y97a4knhlzgclfvdps71k8maph",
     "fetchSubmodules": false
   },
   "gruvbox": {
-    "url": "https://github.com/dawikur/base16-gruvbox-scheme",
+    "type": "git",
+    "repo": "https://github.com/dawikur/base16-gruvbox-scheme",
     "rev": "2def6ef77c1f562ff298d61da6845289bfd9f569",
+    "ref": "HEAD",
     "sha256": "01pgi0w571kk0x3qgr9zwb400xvjgvk9pvm34631vdvh751wf6mp",
     "fetchSubmodules": false
   },
   "hardcore": {
-    "url": "https://github.com/callerc1/base16-hardcore-scheme",
+    "type": "git",
+    "repo": "https://github.com/callerc1/base16-hardcore-scheme",
     "rev": "37dfee7c299332d4a2921827504340647dcb71d1",
+    "ref": "HEAD",
     "sha256": "1pnk669fwa7gh5rs9lb3ki6fkj42a53s0i2nx0bmjgnp5qpyzfy7",
     "fetchSubmodules": false
   },
   "helios": {
-    "url": "https://github.com/reyemxela/base16-helios-scheme",
+    "type": "git",
+    "repo": "https://github.com/reyemxela/base16-helios-scheme",
     "rev": "92a70341f710d7377327e792020a926e7822ec7a",
+    "ref": "HEAD",
     "sha256": "02vqvhq3whb4av6lpm04s3g2affvdlgfl9zh418nq6a3b4l904ba",
     "fetchSubmodules": false
   },
   "heetch": {
-    "url": "https://github.com/tealeg/base16-heetch-scheme",
+    "type": "git",
+    "repo": "https://github.com/tealeg/base16-heetch-scheme",
     "rev": "b93f17adf1f35cfd17d730788311db5f84c0b3ce",
+    "ref": "HEAD",
     "sha256": "1gjlyk1nm87p5wz2gqavxcq6v78mp6q6b7p45rs2ky5c545lawi3",
     "fetchSubmodules": false
   },
   "horizon": {
-    "url": "https://github.com/michael-ball/base16-horizon-scheme",
+    "type": "git",
+    "repo": "https://github.com/michael-ball/base16-horizon-scheme",
     "rev": "644d073863ba9f863eef3b88a8f8607d0ace0063",
+    "ref": "HEAD",
     "sha256": "1c88z0zv5wwc5p6ddvqv9h6681cayvkj5qxyxsig47lndx5zvjq3",
     "fetchSubmodules": false
   },
   "humanoid": {
-    "url": "https://github.com/humanoid-colors/base16-humanoid-schemes",
+    "type": "git",
+    "repo": "https://github.com/humanoid-colors/base16-humanoid-schemes",
     "rev": "2b20767c78694885b347eff6cabccd8c080803e2",
+    "ref": "HEAD",
     "sha256": "07v3gsqb7c17xzx77p6yixzbvqxpad451hdl3fwb5f9w82q5qbdd",
     "fetchSubmodules": false
   },
   "ia": {
-    "url": "https://github.com/aramisgithub/base16-ia-scheme",
+    "type": "git",
+    "repo": "https://github.com/aramisgithub/base16-ia-scheme",
     "rev": "f7dc5c3244a1207f1bc23d402fdf86ace1c9abcd",
+    "ref": "HEAD",
     "sha256": "05zsdafnxpaq6yzc75x4wyy6617vn6hfjyjwcq2q9845nans0iw4",
     "fetchSubmodules": false
   },
   "icy": {
-    "url": "https://github.com/icyphox/base16-icy-scheme",
+    "type": "git",
+    "repo": "https://github.com/icyphox/base16-icy-scheme",
     "rev": "26ab637eab7a9ef1c697bb81f8dbf376f3a0f99b",
+    "ref": "HEAD",
     "sha256": "0s3cr9mwyf12z7hk4p7vahrvrpcjfhw04k6gi3f8i3ircpcbys0f",
     "fetchSubmodules": false
   },
   "materia": {
-    "url": "https://github.com/Defman21/base16-materia",
+    "type": "git",
+    "repo": "https://github.com/Defman21/base16-materia",
     "rev": "9c0952eda648246e9b9725e45e2f15b5065bcb61",
+    "ref": "HEAD",
     "sha256": "17rppka5svypl6s7q6hwwpfzxh84bxamvy2qyamxc89qy5czpsgp",
     "fetchSubmodules": false
   },
   "materialtheme": {
-    "url": "https://github.com/ntpeters/base16-materialtheme-scheme",
+    "type": "git",
+    "repo": "https://github.com/ntpeters/base16-materialtheme-scheme",
     "rev": "cbbc47444208fb8f28dbc48ea986c9dc81843e9a",
+    "ref": "HEAD",
     "sha256": "0ic2wcr08s3bpz0adrqfdpzjyccy8b9lkcar55n8hd2d6iy0ba8a",
     "fetchSubmodules": false
   },
   "material-vivid": {
-    "url": "https://github.com/joshyrobot/base16-material-vivid-scheme",
+    "type": "git",
+    "repo": "https://github.com/joshyrobot/base16-material-vivid-scheme",
     "rev": "1e8f5962f19d7b76a9f6d807868096cb41c442ea",
+    "ref": "HEAD",
     "sha256": "10s3a50bx8m22d0zlisxnznvrcq57y9vqcbk86446q76gpf1bisk",
     "fetchSubmodules": false
   },
   "mellow": {
-    "url": "https://github.com/gidsi/base16-mellow-scheme",
+    "type": "git",
+    "repo": "https://github.com/gidsi/base16-mellow-scheme",
     "rev": "3822819f1621a8de385bbdef5d2d9c2d6ae73212",
+    "ref": "HEAD",
     "sha256": "1wl93yq0d865j78fhwl9xym1vj05yz75k3gwp0pc7ms289jaa3j6",
     "fetchSubmodules": false
   },
   "mexico-light": {
-    "url": "https://github.com/drzel/base16-mexico-light-scheme",
+    "type": "git",
+    "repo": "https://github.com/drzel/base16-mexico-light-scheme",
     "rev": "b287a29afc299d16667cf497325981068f89f749",
+    "ref": "HEAD",
     "sha256": "0qsmixipxb12lalfpxxp2ni5k3byy67gnrdr2frryny9iwglw742",
     "fetchSubmodules": false
   },
   "nova": {
-    "url": "https://github.com/gessig/base16-nova-scheme",
+    "type": "git",
+    "repo": "https://github.com/gessig/base16-nova-scheme",
     "rev": "d0bc7162c69d61b62784e8fe5a9e60b3e6c4af3c",
+    "ref": "HEAD",
     "sha256": "1pfyyni5v8m309y8s3vlz8al4jcirx40gx0wy2vbncg9557s4kdl",
     "fetchSubmodules": false
   },
   "one-light": {
-    "url": "https://github.com/purpleKarrot/base16-one-light-scheme",
+    "type": "git",
+    "repo": "https://github.com/purpleKarrot/base16-one-light-scheme",
     "rev": "be2ca48d1abc87f9d9eb61f48f64891469ce9f0f",
+    "ref": "HEAD",
     "sha256": "199zjydr082krdpidqadidddpy2j8w8qiacl427sdf2w5zv0s33v",
     "fetchSubmodules": false
   },
   "onedark": {
-    "url": "https://github.com/tilal6991/base16-onedark-scheme",
+    "type": "git",
+    "repo": "https://github.com/tilal6991/base16-onedark-scheme",
     "rev": "2e863b1e18d5b67495506dde493d416d45caf823",
+    "ref": "HEAD",
     "sha256": "17cgimrpfb27vbj0qh146j60pqanc2dc496pp67rxgjjqf8il973",
     "fetchSubmodules": false
   },
   "outrun": {
-    "url": "https://github.com/hugodelahousse/base16-outrun-schemes",
+    "type": "git",
+    "repo": "https://github.com/hugodelahousse/base16-outrun-schemes",
     "rev": "fc9a4fdc95e7775c72765848d6a9a69b0f6e9999",
+    "ref": "HEAD",
     "sha256": "0g1vj34fm0z9afrfrvfirmmic9bs697qhi76lx4y2b2yik376d79",
     "fetchSubmodules": false
   },
   "papercolor": {
-    "url": "https://github.com/jonleopard/base16-papercolor-scheme",
+    "type": "git",
+    "repo": "https://github.com/jonleopard/base16-papercolor-scheme",
     "rev": "6a378195dd7bebab38c9d1b7f7f973603074d3cd",
+    "ref": "HEAD",
     "sha256": "1r61cm0v2mvsvm8v2dccxhlcx0fqi9kbq9ja869ib2b8lc3vxgn6",
     "fetchSubmodules": false
   },
   "porple": {
-    "url": "https://github.com/AuditeMarlow/base16-porple-scheme",
+    "type": "git",
+    "repo": "https://github.com/AuditeMarlow/base16-porple-scheme",
     "rev": "d4dadc2a500a657b4e8e16fb9baf159e4311f3dc",
+    "ref": "HEAD",
     "sha256": "0xbmvdj8r18vkavd4rrcp82k4pgjgx688jrkdbb28wcw57b2fwar",
     "fetchSubmodules": false
   },
   "purpledream": {
-    "url": "https://github.com/archmalet/base16-purpledream-scheme",
+    "type": "git",
+    "repo": "https://github.com/archmalet/base16-purpledream-scheme",
     "rev": "5a324665fb2425bedab38cdb5b63d38d13e71d78",
+    "ref": "HEAD",
     "sha256": "0mwz4am21gg965h2h8a4bb2chi31gcjznycga1r6mkn9hv0x74cd",
     "fetchSubmodules": false
   },
   "rebecca": {
-    "url": "https://github.com/vic/base16-rebecca",
+    "type": "git",
+    "repo": "https://github.com/vic/base16-rebecca",
     "rev": "001830703bb361317585c9c97a53b25230173915",
+    "ref": "HEAD",
     "sha256": "1ngkrdr4z5j8swb4z3dnkghn3q4sc5a3dhfs00g7idc4jl1n7z4i",
     "fetchSubmodules": false
   },
   "sandcastle": {
-    "url": "https://github.com/gessig/base16-sandcastle-scheme",
+    "type": "git",
+    "repo": "https://github.com/gessig/base16-sandcastle-scheme",
     "rev": "bd11adf690714ac74d82865776e05845f2ab3481",
+    "ref": "HEAD",
     "sha256": "182ny7wgpidhci7g01rvvaxhm00iw07sn32ibb2lgdhir1rkf977",
     "fetchSubmodules": false
   },
   "snazzy": {
-    "url": "https://github.com/h404bi/base16-snazzy-scheme",
+    "type": "git",
+    "repo": "https://github.com/h404bi/base16-snazzy-scheme",
     "rev": "ad9d2ded7bcf2fd631e876c8793d7317a9b9876a",
+    "ref": "HEAD",
     "sha256": "15w250dnji6r18wgqqjjbvnwy60n669zphyx86ak4iy9mcn91vij",
     "fetchSubmodules": false
   },
   "solarflare": {
-    "url": "https://github.com/mnussbaum/base16-solarflare-scheme",
+    "type": "git",
+    "repo": "https://github.com/mnussbaum/base16-solarflare-scheme",
     "rev": "da0029ace2b3b799549851c567705d579a8b30f8",
+    "ref": "HEAD",
     "sha256": "023acl7l58bl8m4hgcmkr3ag0lbnf8x3mdakhci5miyz31nr2rgc",
     "fetchSubmodules": false
   },
   "solarized": {
-    "url": "https://github.com/aramisgithub/base16-solarized-scheme",
+    "type": "git",
+    "repo": "https://github.com/aramisgithub/base16-solarized-scheme",
     "rev": "02d992b6638cab4f96b441d3bcf7b6354ec28799",
+    "ref": "HEAD",
     "sha256": "0kp95dcrxbq96cwyla04vca0cb4cnzv3v8cv9n4f0k76z0z0ygcw",
     "fetchSubmodules": false
   },
   "summercamp": {
-    "url": "https://github.com/zoefiri/base16-summercamp",
+    "type": "git",
+    "repo": "https://github.com/zoefiri/base16-summercamp",
     "rev": "46415a7da548fbe411e8659ee4b2febb73b255cd",
+    "ref": "HEAD",
     "sha256": "1j78h63h4jni9q4jimi215jfdmdzb4lxg3na15rzhk0f0vs3bsch",
     "fetchSubmodules": false
   },
   "summerfruit": {
-    "url": "https://github.com/cscorley/base16-summerfruit-scheme",
+    "type": "git",
+    "repo": "https://github.com/cscorley/base16-summerfruit-scheme",
     "rev": "f90e53358fd0d6ba1526bd790f26b0195b6debf7",
+    "ref": "HEAD",
     "sha256": "0jdshmrhciq2jldpi3fvq1rsccidqh60jdv7f515l8rqdl4rciy0",
     "fetchSubmodules": false
   },
   "synth-midnight": {
-    "url": "https://github.com/michael-ball/base16-synth-midnight-scheme",
+    "type": "git",
+    "repo": "https://github.com/michael-ball/base16-synth-midnight-scheme",
     "rev": "22d57ccdddc70045e7bcab186625d740f874c990",
+    "ref": "HEAD",
     "sha256": "1vggy2jpf35zv2m8z40gqh9f83jm8hs9zps9vi4z2c5ic9047xrs",
     "fetchSubmodules": false
   },
   "tango": {
-    "url": "https://github.com/Schnouki/base16-tango-scheme",
+    "type": "git",
+    "repo": "https://github.com/Schnouki/base16-tango-scheme",
     "rev": "c341298a1203fdd376cf5a9ad9c4abcae8b194d2",
+    "ref": "HEAD",
     "sha256": "1p1vyp8plsmmjndhiqx7q0gxkwr7ngfg0czj9yr9azc8rjg0d31l",
     "fetchSubmodules": false
   },
   "tomorrow": {
-    "url": "https://github.com/chriskempson/base16-tomorrow-scheme",
-    "rev": "af9622bd6a041561837a865df5e15802d99d156a",
-    "sha256": "04288y9zlhisv46bd4h8q09rpw42ah3jc1rbrylgqs2i5d1z69q9",
-    "fetchSubmodules": false
+    "type": "git",
+    "ref": "master",
+    "repo": "https://github.com/chriskempson/base16-tomorrow-scheme.git",
+    "rev": "af9622bd6a041561837a865df5e15802d99d156a"
   },
   "twilight": {
-    "url": "https://github.com/hartbit/base16-twilight-scheme",
+    "type": "git",
+    "repo": "https://github.com/hartbit/base16-twilight-scheme",
     "rev": "c3ea75b94fd1be21af7b222c41a96f38b31032aa",
+    "ref": "HEAD",
     "sha256": "00xy00d50h8fm8dkx6l2ada29njl9vkyh2m0bmrrp54ikvnpiz41",
     "fetchSubmodules": false
   },
   "unikitty": {
-    "url": "https://github.com/joshwlewis/base16-unikitty",
+    "type": "git",
+    "repo": "https://github.com/joshwlewis/base16-unikitty",
     "rev": "28362f3a37a0e81b04d844aa5b2923ad63140734",
+    "ref": "HEAD",
     "sha256": "09mg23rni68plamizmdhwq05k6w64l77m2h4sc65xjpcqaap74x5",
     "fetchSubmodules": false
   },
   "woodland": {
-    "url": "https://github.com/jcornwall/base16-woodland-scheme",
+    "type": "git",
+    "repo": "https://github.com/jcornwall/base16-woodland-scheme",
     "rev": "0278e12a49f4cf38ecf3026a1e35f4307e928d33",
+    "ref": "HEAD",
     "sha256": "171l9x4varqh1q99fvabvqfdaczn862wqq675rhxhjmzqni9d1gf",
     "fetchSubmodules": false
   },
   "zenburn": {
-    "url": "https://github.com/elnawe/base16-zenburn-scheme",
+    "type": "git",
+    "repo": "https://github.com/elnawe/base16-zenburn-scheme",
     "rev": "e0b00a2675feed5f50ba7c07a09fc3d4ac68982d",
+    "ref": "HEAD",
     "sha256": "1hnlixvq0czf1day80jzf0hs1h1wbzkjhg3s1p5aacbgk71y2gyb",
     "fetchSubmodules": false
   },
   "xcode-dusk": {
-    "url": "https://github.com/gonsie/base16-xcode-dusk-scheme",
+    "type": "git",
+    "repo": "https://github.com/gonsie/base16-xcode-dusk-scheme",
     "rev": "921bdb002bb8f529c7a1bc8e847c73e188ed9682",
+    "ref": "HEAD",
     "sha256": "1lypfck3wjl2j3470mm39vvsiycwkmi2572fvksd6qwk5rp7kfgg",
     "fetchSubmodules": false
   },
   "vulcan": {
-    "url": "https://github.com/andreyvpng/base16-vulcan-scheme",
+    "type": "git",
+    "repo": "https://github.com/andreyvpng/base16-vulcan-scheme",
     "rev": "83c528cd48b5f03384493b0ed3de0c1c8caef40a",
+    "ref": "HEAD",
     "sha256": "1184fialkfrpvfk2ca73wvx352vhnm2vnsa71cdf999p6wg931k3",
     "fetchSubmodules": false
   },
   "unclaimed": {
-    "url": "https://github.com/chriskempson/base16-unclaimed-schemes",
+    "type": "git",
+    "repo": "https://github.com/chriskempson/base16-unclaimed-schemes",
     "rev": "d6b93456dc1012628faec572387814f59e0b854a",
+    "ref": "HEAD",
     "sha256": "043ny56snl4w2ri1i0zzfh00zm2gf2h5jz57kgmf5jb9xj0sspb1",
     "fetchSubmodules": false
   },
   "nord": {
-    "url": "https://github.com/spejamchr/base16-nord-scheme",
+    "type": "git",
+    "repo": "https://github.com/spejamchr/base16-nord-scheme",
     "rev": "6e83e1d56216762b4f250443af277a000f9d3c0b",
+    "ref": "HEAD",
     "sha256": "059cs61qaq6pg5lcvrbww894wnv0v4i1164vavyh0bqpy4zi41f9",
     "fetchSubmodules": false
   }
