@@ -428,6 +428,8 @@
     "repo": "https://github.com/chriskempson/base16-vim.git",
     "rev": "6191622d5806d4448fa2285047936bdcee57a098",
     "ref": "master"
+    "sha256": "0vz4c8cy7zw7n41vrfzjksgw9lyxwkqa010szc14gx3450si9q6z",
+    "fetchSubmodules": false
   },
   "vis": {
     "type": "git",
