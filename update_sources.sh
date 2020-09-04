@@ -12,7 +12,7 @@ generate_sources () {
   | sed -nE "s~^([-_[:alnum:]]+): *(.*)~\1 \2~p"\
   | while read name src; do
       echo "{\"key\":\"$name\",\"value\":"
-      nix-prefetch-git $src
+      nix-prefetch-git $src | jq '. + { "repo": "\(.url).git", "ref": "master", "type": "git" } | del(.url)'
       echo "}"
     done\
   | jq -s ".|del(.[].value.date)|from_entries"\

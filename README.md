@@ -61,34 +61,21 @@ directly, so there may be typos / bugs
 
     services.dunst = {
         enable = true;
-        settings = with config.lib.base16.theme;
-            {
-              global = {
-                geometry         =  "600x1-800+-3";
-                font             = "${headerfontname} ${headersize}";
-                icon_path =
-                  config.services.dunst.settings.global.icon_folders;
-                alignment        = "right";
-                frame_width      = 0;
-                separator_height = 0;
-                sort             = true;
-              };
-              urgency_low = {
-                background = "#${base01-hex}";
-                foreground = "#${base03-hex}";
-              };
-              urgency_normal = {
-                background = "#${base01-hex}";
-                foreground = "#${base05-hex}";
-              };
-              urgency_critical = {
-                msg_urgency = "CRITICAL";
-                background  = "#${base01-hex}";
-                foreground  = "#${base08-hex}";
-              };
+        settings = {
+          inherit (config.lib.base16.nixTemplate "dunst");
+
+          global = {
+            geometry         =  "600x1-800+-3";
+            font             = "${headerfontname} ${headersize}";
+            icon_path =
+              config.services.dunst.settings.global.icon_folders;
+            alignment        = "right";
+            frame_width      = 0;
+            separator_height = 0;
+            sort             = true;
+          };
         };
      };
-
 
   };
 }
